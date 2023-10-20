@@ -10,6 +10,7 @@
         <li>🎓 &nbsp; Computer Science at <a href="https://binus.ac.id/">Binus</a></li>
         <li>✍️ &nbsp; Junior Frontend Developer </li>
         <li>🤔 &nbsp; Currently interested in Database and Frontend</li>
+         <li>🤔 &nbsp; <a href="https://marhansen.com/">My Portofolio Website</a></li>
        </ul>
        <p align="center">
          <br>
