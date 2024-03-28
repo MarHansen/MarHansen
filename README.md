@@ -6,7 +6,7 @@
 [![Behance Badge](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/marhansen)
 
 ### About me &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
-<img align="right" alt="GIF" width="420" height="270"  src="https://drive.google.com/uc?id=1-53Gj7oD6B_Qs1zacotd18Nk7h4MjUeT"/>
+<img align="right" alt="GIF" width="420" height="270"  src="https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif"/>
 
 > Frontend Engineer
 > <br>
