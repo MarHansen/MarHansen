@@ -25,13 +25,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2024 - To: 07 April 2024
+From: 01 April 2024 - To: 08 April 2024
 
-TypeScript       14 hrs 4 mins   ████████████████████████▓   99.19 %
-Bash             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-SCSS             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-PHP              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   12 hrs 14 mins  █████████████████████████   99.66 %
+SCSS         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
