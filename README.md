@@ -25,10 +25,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2024 - To: 07 May 2024
+From: 01 May 2024 - To: 08 May 2024
 
-TypeScript   6 hrs 43 mins   ████████████████████████▓   98.86 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+TypeScript   8 hrs 6 mins    ████████████████████████▓   99.06 %
+Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->
