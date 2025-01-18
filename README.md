@@ -21,7 +21,7 @@
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Reach me: <a href="https://martinohansen.com"> My Website
 
 </br>
-
+</br>
 
 📊 **Activity:**
 <!--START_SECTION:waka-->
