@@ -12,6 +12,8 @@
 > <br>
 > UI/UX Designer
 
+</br>
+
 **🙋 More about me:**
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently majoring Computer Science at <a href="https://binus.ac.id/">Binus
@@ -19,6 +21,7 @@
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; Reach me: <a href="https://martinohansen.com"> My Website
 
 </br>
+
 
 📊 **Activity:**
 <!--START_SECTION:waka-->
