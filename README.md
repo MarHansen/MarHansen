@@ -27,9 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2025 - To: 24 January 2025
+From: 18 January 2025 - To: 25 January 2025
 
-TypeScript   8 hrs 6 mins    █████████████████████████   99.97 %
+TypeScript   8 hrs 11 mins   █████████████████████████   99.44 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
