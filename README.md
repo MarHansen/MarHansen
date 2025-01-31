@@ -18,7 +18,7 @@
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently majoring Computer Science at <a href="https://binus.ac.id/">Binus
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning React with Typescript.
-
+</br>
 </br>
 </br>
 
