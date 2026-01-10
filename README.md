@@ -28,12 +28,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2026 - To: 08 January 2026
+From: 02 January 2026 - To: 09 January 2026
 
-TypeScript   3 hrs 46 mins   █████████████████████▒░░░   85.45 %
-CSS          29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Bash         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   3 hrs 32 mins   ████████████████████████▒   97.59 %
+Bash         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
 ```
 
 <!--END_SECTION:waka-->
