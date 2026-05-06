@@ -28,12 +28,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2026 - To: 04 May 2026
+From: 28 April 2026 - To: 05 May 2026
 
-TypeScript   4 hrs 13 mins         █████████████████████████   99.83 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+TypeScript   4 hrs 4 mins          █████████████████████████   99.83 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 JSON         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-Bash         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
