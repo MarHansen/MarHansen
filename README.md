@@ -28,13 +28,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 September 2026 - To: 22 September 2026
+From: 16 September 2026 - To: 23 September 2026
 
-TypeScript   4 hrs 46 mins         ██████████████████░░░░░░░   71.99 %
-Other        45 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.31 %
-CSS          35 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-JSON         14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-JavaScript   14 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+TypeScript   2 hrs 47 mins         ████████████████████▒░░░░   81.70 %
+CSS          15 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+JSON         14 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+JavaScript   5 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Markdown     2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
